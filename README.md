@@ -19,8 +19,6 @@
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"  />
 <br />
 
-<details>
- <summary></summary>
    I’m a developer based in the Philippines 🌴 dedicated to building scalable, high-performance web applications. I bridge the gap between robust backend architecture and seamless frontend experiences.
 
 🚀 Frontend: React.js, Tailwind CSS, JavaScript (ES6+)
