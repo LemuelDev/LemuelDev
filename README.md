@@ -1,8 +1,9 @@
 # 🏄‍♂️ LemuelDev
 
-**`Web Developer`**
+**`Hi, I'm Lemuel! 👋`**
 
-Hello there! 👋 I'm LemuelDev, an aspiring web developer hailing from the beautiful Philippines 🌴. I'm passionate about crafting engaging and user-friendly web experiences, and my journey through the world of coding is reflected in my GitHub repositories. Join me on this exciting adventure as we explore the limitless possibilities of web development together!
+**`Full Stack Web Developer | Laravel & React JS`**
+
 
 ### 🧰 Languages and Tools
 
